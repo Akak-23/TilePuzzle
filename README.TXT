@@ -3,11 +3,9 @@
 
 **<Arya Kumar Subhankar>**
 
-<![Alt text](/images/preview.png){width=359 height=491}>
+![Alt text](images/Preview.png)
 
 Ein Puzzlespiel. Der erzeugte Level ist durcheinandergeworfen. Ihr müsst die Rotation der Kacheln ändern, um einen Pfad zwischen Spieler und Ziel zu erstellen. Es gibt drei Levels.
-
-<Herunterladen[TileRotationGame.jar](/uploads/1c407e9d92859e9788fd0f26586bbc39/TileRotationGame.jar)>
 
 ### Lizenzen
 
